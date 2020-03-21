@@ -8,5 +8,6 @@ public class Java {
             reverse+=str.substring(i,i+1);
         }
         System.out.println("reverse = " + reverse);
+        System.out.println("hello world");
     }
 }
